@@ -1,4 +1,17 @@
 ## Hi there 👋
+I am niilevv. 
+Intersted in everything from IT to Electrical Engineering, Game Development, 
+
+
+🔭 currently exploring: 
+- NAS servers and Proxmox
+- Arduino projects
+- Programming in Python through the JetBrains 'Introduction to Python' course
+
+📖 currently reading:
+-  A mind for NUMBERS
+
+
 
 <!--
 **niilevv/niilevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
