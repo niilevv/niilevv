@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am niilevv. 
-Intersted in everything from IT to Electrical Engineering, Game Development, 
+Intersted in everything from IT to Electrical Engineering, Game Development.
 
 
 🔭 currently exploring: 
@@ -11,6 +11,9 @@ Intersted in everything from IT to Electrical Engineering, Game Development,
 📖 currently reading:
 -  A mind for NUMBERS
 
+🏢 currently working:
+- 3D-Artist for BoB Battle of Bots
+https://flupppi.itch.io/bob
 
 
 <!--
